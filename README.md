@@ -1,6 +1,6 @@
 #                   San Francisco Airport Clustering
 
-## Using the Elbow method find the optimal curve.
+## Using the Elbow method to find the optimal curve.
 
 ## Work steps:
 
